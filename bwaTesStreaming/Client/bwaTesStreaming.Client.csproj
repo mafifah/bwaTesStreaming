@@ -35,15 +35,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="bwaCrixalis.Shared">
-      <HintPath>..\..\..\..\#Fortis Central\DevOps\Crixalis\bwaCrixalis\Shared\bin\Debug\net7.0\bwaCrixalis.Shared.dll</HintPath>
-    </Reference>
-    <Reference Include="Pantheon.Shared">
-      <HintPath>..\..\..\..\#Fortis Central\DevOps\Crixalis\bwaCrixalis\Shared\bin\Debug\net7.0\Pantheon.Shared.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-
-  <ItemGroup>
     <ServiceWorker Include="wwwroot\service-worker.js" PublishedContent="wwwroot\service-worker.published.js" />
   </ItemGroup>
 
